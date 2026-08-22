@@ -6,7 +6,7 @@ cask "den-browser" do
       verified: "github.com/nekonata-team/den-browser/"
   name "Den Browser"
   desc "Niri-inspired spatial browser for persistent web work"
-  homepage "https://nekonata.dev/"
+  homepage "https://den.nekonata.dev/"
 
   depends_on macos: :tahoe
 
