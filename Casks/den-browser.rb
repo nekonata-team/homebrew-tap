@@ -8,6 +8,7 @@ cask "den-browser" do
   desc "Niri-inspired spatial browser for persistent web work"
   homepage "https://den.nekonata.dev/"
 
+  auto_updates true
   depends_on macos: :tahoe
 
   app "Den Browser.app"
