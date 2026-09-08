@@ -11,6 +11,7 @@ cask "den-browser" do
   depends_on macos: :tahoe
 
   app "Den Browser.app"
+  binary "#{appdir}/Den Browser.app/Contents/MacOS/den"
 
   zap trash: [
     "~/Library/Application Support/Den Browser",
