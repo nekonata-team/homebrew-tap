@@ -1,6 +1,6 @@
 cask "den-browser" do
-  version "0.61.1"
-  sha256 "c69b2eabd4401fa33e03aaac18516a3a313b7fe110061cb223d956e59dec9329"
+  version "0.62.0"
+  sha256 "8581da6b64493dc27dfdda50041f0a4cad20727a49fef460175ec3a9f4294c47"
 
   url "https://github.com/nekonata-team/den-browser/releases/download/v#{version}/Den-Browser-#{version}-macOS.zip"
   name "Den Browser"
